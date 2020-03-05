@@ -1,2 +1,6 @@
 # PR19TBANLRMIUS
-Data mining school project
+Ideje za projekt:
+
+
+
+
