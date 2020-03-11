@@ -6,3 +6,9 @@ Preverili bomo onesnaženost zraka (koncentracija ozona O3, delci PM10, PM2.5, S
 
 Na spletni strani arso je na voljo še analiza delcev PM10, koncentracija vsake težke kovine, ki spada v to kategorijo (aluminij, svinec, baker, ...). To nam bo omogočilo natančno analizo onesnaženosti na vsaki meritveni postaji.
 
+Nekaj vprašanj na katera bomo poskušali odgovoriti:
+* Kateri so najbolj in najmanj onesnaženi kraji v Sloveniji?
+* Ali letni časi vplivajo na onesnaženost?
+* Za kakšno vrsto onesnaženosti gre (O3, PM10, PM2.5)?
+* Kako temperatura zraka, vlaga, vetrovi, ..., vplivajo na vse težke kovine v PM10?
+* Ali ogrevanje domov med zimskim časom vpliva na onesnaženost?
